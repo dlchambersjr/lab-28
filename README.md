@@ -6,7 +6,7 @@
 ### Author: David Chambers
 
 ### Links and Resources
-* [Part-1](http://xyz.com)
+* [Part-1](https://codesandbox.io/s/qjkp3jx84)
 * [Part-2](http://xyz.com)
 * [Part-3](http://xyz.com)
 * [Part-4](http://xyz.com)
