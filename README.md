@@ -1,15 +1,17 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## LAB - Props and State
 
-### Author: Student/Group Name
+### Author: David Chambers
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [Part-1](http://xyz.com)
+* [Part-2](http://xyz.com)
+* [Part-3](http://xyz.com)
+* [Part-4](http://xyz.com)
+* [Part-5](http://xyz.com)
+* [Part-6](http://xyz.com)
 
 ### Modules
 #### `modulename.js`

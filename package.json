@@ -1,0 +1,23 @@
+{
+  "name": "lab-28",
+  "version": "1.0.0",
+  "description": "Lab-28 Props and State",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlchambersjr/lab-28.git"
+  },
+  "keywords": [
+    "props",
+    "state"
+  ],
+  "author": "Code Fellows/David Chambers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dlchambersjr/lab-28/issues"
+  },
+  "homepage": "https://github.com/dlchambersjr/lab-28#readme"
+}
