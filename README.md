@@ -8,10 +8,10 @@
 ### Links and Resources
 * [Assignment 1: Part-1](https://codesandbox.io/s/qjkp3jx84)
 * [Assignment 1: Part-2](https://codesandbox.io/s/82l84jpqw9)
-* [Part-3](http://xyz.com)
-* [Part-4](http://xyz.com)
-* [Part-5](http://xyz.com)
-* [Part-6](http://xyz.com)
+* [Assignment 2: Part-1](https://codesandbox.io/s/18l5m3wor3)
+* [Assignment 2: Part-2](https://codesandbox.io/s/yk9y5qz5l9)
+* [Assignment 3: Part-1](http://xyz.com)
+* [Assignment 3: Part-2](http://xyz.com)
 
 ### Modules - Assignment 1
 #### `index.js` - primary entry point for React App
