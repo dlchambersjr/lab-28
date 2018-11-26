@@ -87,9 +87,9 @@
 * `handleSubmit()` - pass the input value into App class handleSubmit().
 
 #### UML
-* [Assignment 1: Part-1](https://github.com/dlchambersjr/lab-28/blob/master/assets/lab-28-1a.jpg)
-* [Assignment 1: Part-2](https://github.com/dlchambersjr/lab-28/blob/master/assets/lab-28-1b.jpg)
-* [Assignment 2: Part-1](https://github.com/dlchambersjr/lab-28/blob/master/assets/lab-28-2a.jpg)
-* [Assignment 2: Part-2](https://github.com/dlchambersjr/lab-28/blob/master/assets/lab-28-2b.jpg)
-* [Assignment 3: Part-1](https://github.com/dlchambersjr/lab-28/blob/master/assets/lab-28-3a.jpg)
-* [Assignment 3: Part-2](https://github.com/dlchambersjr/lab-28/blob/master/assets/lab-28-3b.jpg)
+* [Assignment 1: Part-1](https://github.com/dlchambersjr/lab-28/blob/master/assets/lab-28-1a.JPG)
+* [Assignment 1: Part-2](https://github.com/dlchambersjr/lab-28/blob/master/assets/lab-28-1b.JPG)
+* [Assignment 2: Part-1](https://github.com/dlchambersjr/lab-28/blob/master/assets/lab-28-2a.JPG)
+* [Assignment 2: Part-2](https://github.com/dlchambersjr/lab-28/blob/master/assets/lab-28-2b.JPG)
+* [Assignment 3: Part-1](https://github.com/dlchambersjr/lab-28/blob/master/assets/lab-28-3a.JPG)
+* [Assignment 3: Part-2](https://github.com/dlchambersjr/lab-28/blob/master/assets/lab-28-3b.JPG)
