@@ -1,44 +1,95 @@
-![CF](http://i.imgur.com/7v5ASc8.png) LAB
-=================================================
-
 ## LAB - Props and State
 
 ### Author: David Chambers
 
 ### Links and Resources
-* [Part-1](http://xyz.com)
-* [Part-2](http://xyz.com)
-* [Part-3](http://xyz.com)
-* [Part-4](http://xyz.com)
-* [Part-5](http://xyz.com)
-* [Part-6](http://xyz.com)
+* [Assignment 1: Part-1](https://codesandbox.io/s/qjkp3jx84)
+* [Assignment 1: Part-2](https://codesandbox.io/s/82l84jpqw9)
+* [Assignment 2: Part-1](https://codesandbox.io/s/18l5m3wor3)
+* [Assignment 2: Part-2](https://codesandbox.io/s/yk9y5qz5l9)
+* [Assignment 3: Part-1](https://codesandbox.io/s/20xp200nqp)
+* [Assignment 3: Part-2](https://codesandbox.io/s/o4l58lm6pq)
 
-### Modules
-#### `modulename.js`
+### Modules - Assignment 1-Part 1
+#### `index.js` - primary entry point for React App
 ##### Exported Values and Methods
+* Renders all output
 
-###### `foo(thing) -> string`
-Usage Notes or examples
+#### `message class` - creates the render for "Hello World"
+##### Exported Values and Methods
+* Message Class
 
-###### `bar(array) -> array`
-Usage Notes or examples
+### Modules - Assignment 1-Part 2
+#### `index.js` - primary entry point for React App
 
-### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
+#### `app.js` - manages and creates the render for all the individual components.
+##### Exported Values and Methods
+* App Class - render for the app
 
-#### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+#### `message.js` - creates the render for "Hello World"
+##### Exported Values and Methods
+* Message Class
 
-#### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+
+### Modules - Assignment 2 - Part 1
+#### `index.js` - primary entry point for React App
+##### Exported Values and Methods
+* App Class - Creates the output to be rendered
+* `handleChange()` - updates state as the input form changes.
+* `handleSubmit()` - updates state for count.
+
+### Modules - Assignment 2 - Part 2
+#### `index.js` - primary entry point for React App
+##### Exported Values and Methods
+* renders the page using the App Class.
+
+#### `app.js` - primary entry point for React App
+##### Exported Values and Methods
+* App Class - Creates the output to be rendered.
+* Includes rendering the Form class
+* `handleChange()` - updates state as the input form changes.
+* `handleSubmit()` - updates state for count.
+
+#### `form.js` - primary entry point for React App
+##### Exported Values and Methods
+* App Class - Creates the output to be rendered
+* `handleChange()` - updates state as the input form changes.
+* `handleSubmit()` - updates state for count.
+
+
+### Modules - Assignment 3 - Part 1
+#### `index.js` - primary entry point for React App
+##### Exported Values and Methods
+* App Class - Creates the output to be rendered
+* `handleSubmit()` - updates state for name and count.
+
+#### `form.js` - primary entry point for React App
+##### Exported Values and Methods
+* App Class - Creates the output to be rendered
+* `handleChange()` - updates state as the input form changes.
+* `handleSubmit()` - pass the input value into App class handleSubmit().
+
+### Modules - Assignment 3 - Part 2
+#### `index.js` - primary entry point for React App
+##### Exported Values and Methods
+* renders the page using the App Class.
+
+#### `app.js` - primary entry point for React App
+##### Exported Values and Methods
+* App Class - Creates the output to be rendered.
+* Includes rendering the Form class
+* `handleSubmit()` - updates state for name and count.
+
+#### `form.js` - primary entry point for React App
+##### Exported Values and Methods
+* App Class - Creates the output to be rendered
+* `handleChange()` - updates state as the input form changes.
+* `handleSubmit()` - pass the input value into App class handleSubmit().
 
 #### UML
-Link to an image of the UML for your application and response to events
+* [Assignment 1: Part-1](https://github.com/dlchambersjr/lab-28/blob/master/assets/lab-28-1a.jpg)
+* [Assignment 1: Part-2](https://github.com/dlchambersjr/lab-28/blob/master/assets/lab-28-1b.jpg)
+* [Assignment 2: Part-1](https://github.com/dlchambersjr/lab-28/blob/master/assets/lab-28-2a.jpg)
+* [Assignment 2: Part-2](https://github.com/dlchambersjr/lab-28/blob/master/assets/lab-28-2b.jpg)
+* [Assignment 3: Part-1](https://github.com/dlchambersjr/lab-28/blob/master/assets/lab-28-3a.jpg)
+* [Assignment 3: Part-2](https://github.com/dlchambersjr/lab-28/blob/master/assets/lab-28-3b.jpg)
